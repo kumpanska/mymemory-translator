@@ -57,5 +57,5 @@ The project uses 2 related tables:
 ### 2. Duplicate Prevention & Different Language Parameter
 ![Duplicate prevention and second language](screenshots/screenshot_2.png)
 
-### 3. Error Handling (HTTP Status != 200 / Network Error)
+### 3. Error Handling (Network Error)
 ![Error handling](screenshots/screenshot_3.png)
